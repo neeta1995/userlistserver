@@ -1,0 +1,79 @@
+{
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Feb 20 2021  1:33PM",
+					"end_time": "Feb 20 2021 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "AU78D89S7",
+			"real_name": "Emma Stallon",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 20 2021  1:33PM",
+					"end_time": "Feb 20 2021 1:54PM"
+				},
+				{
+					"start_time": "Feb 21 2021  11:11AM",
+					"end_time": "Feb 21 2021 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2021  5:33PM",
+					"end_time": "Mar 16 2021 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "K07UYRPA9",
+			"real_name": "Gina Dias",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 21 2021  1:33PM",
+					"end_time": "Feb 1 2021 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2021  11:11AM",
+					"end_time": "Mar 1 2021 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2021  5:33PM",
+					"end_time": "Mar 16 2021 8:02PM"
+				}
+			]
+		}
+	]
+}
